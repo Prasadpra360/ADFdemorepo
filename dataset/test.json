@@ -1,5 +1,5 @@
 {
-	"name": "testrepo_copy1",
+	"name": "test",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
