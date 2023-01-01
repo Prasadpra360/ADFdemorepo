@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFWafoDemo"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://prasaddatalakegen2.dfs.core.windows.net/"
 		}
 	}
 }
